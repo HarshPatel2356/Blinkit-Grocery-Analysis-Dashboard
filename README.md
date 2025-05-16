@@ -17,7 +17,7 @@ The dashboard offers a detailed view of:
 
 🔹 Average Ratings by Item and Outlet Location
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:
 Python (Pandas) – for data cleaning and preparation
 
 Power BI – for data modeling and interactive visualization
